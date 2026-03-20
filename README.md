@@ -65,6 +65,7 @@ The system removes the need for traditional intermediaries like banks, making re
 ---
 
 ## 📬 Contact
+<img width="1282" height="981" alt="Screenshot 2026-03-20 at 3 44 20 PM" src="https://github.com/user-attachments/assets/47942c17-2b7b-403b-b012-4e910908bff3" />
 
 For queries or collaboration, feel free to reach out!
 <img width="1695" height="1024" alt="Screenshot 2026-03-20 at 2 56 37 PM" src="https://github.com/user-attachments/assets/a526351c-0c6b-43a8-a2c0-d77feb5bb76c" />
